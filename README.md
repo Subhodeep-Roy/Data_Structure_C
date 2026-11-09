@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C
+# Data Structures in C
 
 This repository contains implementations and practice programs for data structures and algorithms using the C programming language.
 
